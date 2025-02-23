@@ -1,5 +1,4 @@
 import { dataAboutPage } from "@/data";
-import { div, h3 } from "framer-motion/client";
 
 const TimeLine = () => {
   return (
