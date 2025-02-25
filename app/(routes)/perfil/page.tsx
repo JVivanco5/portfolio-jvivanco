@@ -1,7 +1,6 @@
 import CoverParticles from "@/components/cover-particles"
 import IntroductionProfile from "@/components/introduction-profile"
 import TransitionPage from "@/components/transition-page"
-import ContainerPage from "@/components/container"
 
 const ProfilePage = () => {
   return (
