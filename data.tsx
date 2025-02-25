@@ -17,7 +17,7 @@ export const socialNetworks = [
     {
         id: 2,
         logo: <AiOutlineFilePdf size={30} strokeWidth={1} />,
-        src: "https://youtu.be/989-7xsRLR4?t=34" ,
+        src: "https://drive.google.com/file/d/1MG3jIlqrTE1Q7-pBy309FXNu2SI4PrE_/view?usp=drive_link" ,
     },
     //  {
     //     id: 1,
