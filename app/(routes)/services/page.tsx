@@ -1,5 +1,5 @@
-import AvatarServices from "@/components/avatar-services";
-import CircleImage from "@/components/circle-image";
+// import AvatarServices from "@/components/avatar-services";
+// import CircleImage from "@/components/circle-image";
 import CoverParticles from "@/components/cover-particles";
 import SliderServices from "@/components/slider-services";
 import TransitionPage from "@/components/transition-page";

@@ -5,6 +5,7 @@ import Link from 'next/link';
 
 const IntroductionProfile = () => {
   return (
+    
     <div className="z-20 w-full bg-darkBg/60 pt-24 md:pt-0">
       <div className="z-20 grid items-center h-full p-6 py-20 md:py-0 md:grid-cols-2 gap-6">
         {/* Bloque de texto */}
@@ -37,7 +38,7 @@ const IntroductionProfile = () => {
         {/* Bloque de imagen */}
         <div className="mx-auto">
           <Image
-            src="/gengar.png"
+            src="/msn-Photoroom.png"
             priority
             width="500"
             height="500"

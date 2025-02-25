@@ -8,7 +8,7 @@ import CoverParticles from "@/components/cover-particles";
 const PageAboutMe = () => {
   return (
     <>
-
+        
       <TransitionPage />
       <CoverParticles />
       <ContainerPage>
