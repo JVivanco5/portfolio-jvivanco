@@ -4,13 +4,15 @@ import ContainerPage from "@/components/container"
 import PortfolioBox from "@/components/portfolio-box"
 import TransitionPage from "@/components/transition-page"
 import { dataPortfolio } from "@/data"
+import CoverParticles from "@/components/cover-particles"
 
 const PortfolioPage = () => {
   return (
     <ContainerPage>
       <TransitionPage /> 
-        <AvatarPortfolio />
-        <CircleImage />
+        {/* <AvatarPortfolio /> */}
+        <CoverParticles />
+        {/* <CircleImage /> */}
 
         <div className="flex flex-col justify-center h-full">
           <h1 className="text-2xl leading tight text-center md:text-4xl md:mb-5">Mis proyectos</h1>

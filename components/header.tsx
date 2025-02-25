@@ -10,7 +10,7 @@ const Header = () => {
         <div className="container justify-between max-w-6xl mx-auto md:flex">
           <Link href="/">
             <h1 className="my-3 text-4xl font-bold text-center md:text-left">
-              Joaquin
+              Joaquin {" "}
               <span className="text-secondary">
               Vivanco
               </span>
