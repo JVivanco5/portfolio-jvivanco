@@ -5,6 +5,7 @@ import { RiJavascriptLine, RiHtml5Line, RiTailwindCssLine } from "react-icons/ri
 import { TbBrandVite, TbBrandNextjs } from "react-icons/tb";
 import { SiMongodb, SiFirebase } from "react-icons/si";
 import { IoLogoGithub } from "react-icons/io";
+import { BiLogoPhp } from "react-icons/bi";
 import { GrMysql } from "react-icons/gr";
 
 
@@ -17,7 +18,7 @@ export const socialNetworks = [
     {
         id: 2,
         logo: <AiOutlineFilePdf size={30} strokeWidth={1} />,
-        src: "https://drive.google.com/file/d/1MG3jIlqrTE1Q7-pBy309FXNu2SI4PrE_/view?usp=drive_link" ,
+        src: "https://drive.google.com/file/d/1dpOxQnrJl70bhZWY1GeYTnC1DisE4U2L/view?usp=drive_link" ,
     },
     //  {
     //     id: 1,
@@ -197,6 +198,11 @@ export const serviceData = [
         description: "Optimización de tu presencia en línea mediante estrategias de SEO avanzadas, ",
     },
     {
+        icon: <BiLogoPhp />,
+        title: "PHP",
+        description: "Optimización de tu presencia en línea mediante estrategias de SEO avanzadas, ",
+    },
+    {
         icon: <FaJava />,
         title: "Java",
         description: "Optimización de tu presencia en línea mediante estrategias de SEO avanzadas, ",
@@ -230,7 +236,7 @@ export const serviceData = [
         icon: <GrMysql />,
         title: "MySql",
         description: "Optimización de tu presencia en línea mediante estrategias de SEO avanzadas, ",
-    },
+    }, 
 ];
 
 export const dataPortfolio = [
